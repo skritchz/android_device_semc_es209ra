@@ -17,6 +17,7 @@
 /dev/akm8973_aot        0664 compass system
 /dev/semc_imx046_camera 0660 system camera
 /dev/msm_camera/*       0660 system camera
+/dev/graphics/fb*       0777 system camera
 /dev/msm_vidc_dec       0660 system audio
 /dev/msm_vidc_enc       0660 system audio
 /dev/msm_vidc_reg       0660 system audio
